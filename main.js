@@ -77,4 +77,4 @@ function mousePressed() {
 
 let str =
   ['Valorização', 'Diversidade', 'Autonomia', 'Significativa', 'Habilidades', 'Consciente', 'Desenvolvimento', 'Prática', 'Resiliência', 'Intercultural', 'Saberes', 
-    'Valores', 'Flexível', 'Inclusão', 'Cidadania', 'Democrática', 'Protagonismo', 'Criatividade', 'Imaginação', 'Reflexão']
+    'Valores', 'Flexível', 'Inclusão', 'Cidadania', 'Democrática', 'Protagonismo', 'Criatividade', 'Imaginação', 'Reflexão', 'Catarse', 'Estesia', 'Contexto']
